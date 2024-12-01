@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a Passionate software developer from India, Currently looking for Internships and Entry-level Roles.</p>
+<p align="left">As a AIML student, I have developed a strong foundation in Python and Fround end development through coursework and personal projects, including experience with libraries like NumPy, Pandas and Flask. I am eager to apply my technical skills in a real-world setting, contribute to the development of innovative solutions, and continue learning from a team of experienced professionals.</p>
 
 ###
 
