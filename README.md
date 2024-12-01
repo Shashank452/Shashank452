@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a Passionate frontend and data analytics from India, Currently looking for Internships and Entry-level Roles.</p>
+<p align="left">I'm a Passionate software developer from India, Currently looking for Internships and Entry-level Roles.</p>
 
 ###
 
